@@ -1,4 +1,4 @@
-# Mutual Fund Recommendation
+# Credit Card Fraud Detection
 John Canque
 
 - [Data](#data)
